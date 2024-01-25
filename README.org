@@ -4,6 +4,6 @@ An implementation of microKanren in Common Lisp, with disequality store
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/rgc69/si-kanren.git |
-| commit  | cffdabb                                    |
+| commit  | 7eef5b0                                    |
 | systems | si-kanren                                  |
 |---------+--------------------------------------------|
